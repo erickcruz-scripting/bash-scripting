@@ -17,4 +17,4 @@ Hi, I'm **Erick Cruz**. This repo contains a script collection developed in **RH
 * **Execution**: `chmod +x script_name.sh`
 ---
 * **Note: Scripts are not listed in upload order, and are not for enterprise use**
-* **Updating as son as i can do :)**
+* **Updating as soon as i can do :)**
