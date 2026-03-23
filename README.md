@@ -1,15 +1,20 @@
-# 🚀 Bash Scripting - Automation Proyects
-Hi, I'm **Erick Cruz**. This Repo contains a script collection developed in RHELv10, this is for server management and automation.
-Some of the Scripts are listed bellow ---------------------------------↴
+# 🚀 Bash Scripting - Automation Projects
 
-## Requirement
-* OS: **RHEL v10** (or distros based in RHEL).
-* execution: `chmod +x script_name.sh`
+Hi, I'm **Erick Cruz**. This repo contains a script collection developed in **RHEL v10**, designed for server management and automation.
+
+### 🛠️ Scripts Collection
 ---
-Not Listed in upload order
+1. **hola.sh**: "Just Testing"
+2. **cleaning.sh**: Cleans DNF dependencies, temp files, and shows current disk usage.
+3. **install_apache.sh**: Installs Apache Web Server and configures firewall properties.
+4. **system_info.sh**: Shows system info like time, date, hostname, and memory usage.
+5. **time_serverup.sh**: Shows server uptime and currently connected users.
 
-1.- hola.sh "Just Testing"
-2.- cleaning.sh "Cleans DNF Dependences, Temp Files and Shows Current Disk Usage"
-3.- install_apache.sh "Install Apache Web Server also configure firewall properties"
-4.- system_info.sh "Shows system info like time, date, hostname and Memory usage"
-5.- time_serverup.sh "Shows time server up and users connected"
+---
+
+### 📋 Requirements
+* **OS**: RHEL v10 (or distros based on RHEL like Rocky Linux).
+* **Execution**: `chmod +x script_name.sh`
+
+> *Note: Scripts are not listed in upload order.*
+> *Updating as i can do it, :).*
