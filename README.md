@@ -6,5 +6,10 @@ Some of the Scripts are listed bellow ---------------------------------↴
 * OS: **RHEL v10** (or distros based in RHEL).
 * execution: `chmod +x script_name.sh`
 ---
-1.- hola.sh "Just Testing"
+Not Listed in upload order
 
+1.- hola.sh "Just Testing"
+2.- cleaning.sh "Cleans DNF Dependences, Temp Files and Shows Current Disk Usage"
+3.- install_apache.sh "Install Apache Web Server also configure firewall properties"
+4.- system_info.sh "Shows system info like time, date, hostname and Memory usage"
+5.- time_serverup.sh "Shows time server up and users connected"
