@@ -16,5 +16,4 @@ Hi, I'm **Erick Cruz**. This repo contains a script collection developed in **RH
 * **OS**: RHEL v10 (or distros based on RHEL like Rocky Linux).
 * **Execution**: `chmod +x script_name.sh`
 ---
-> *Note: Scripts are not listed in upload order, and are not for enterprise use*
-> *Updating as son as i can do it, :).*
+* **Note: Scripts are not listed in upload order, and are not for enterprise use**
